@@ -2,9 +2,9 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-### Svelte-based boilerplate for web3 development
+### Svelte-based boilerplate for web3 frontend development
 
-A lightweight pre-configured boilerplate for building decentralized applications on the Ethereum network with Svelte. With built-in Web3 integration, this boilerplate streamlines development and makes it easy to get started building powerful Web3 applications.
+A lightweight Svelte boilerplate for building frontends for smart contracts on blockchain networks. With built-in web3 integration, this boilerplate streamlines development and makes it easy to get started building powerful web3 frontend applications.
 
 ## Installation
 
